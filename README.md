@@ -2,7 +2,7 @@
 
 Recruitment task for KLG Solutions
 
-## Demo - [click here](https://seppsher.github.io/KLG_Solutions/)
+## Demo - [click here](https://seppsher.github.io/KLG/)
 
 # App
 

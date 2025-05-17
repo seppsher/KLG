@@ -1,0 +1,14 @@
+<nav class="px-4 py-4">
+  <ul class="flex">
+    <li routerLinkActive="active">
+      <button mat-button [routerLink]="PATHS.INVOICE + '/' + PATHS.GENERATE">
+        Generuj fakturę
+      </button>
+    </li>
+    <li routerLinkActive="active">
+      <button mat-button [routerLink]="PATHS.INVOICE + '/' + PATHS.PREVIEW">
+        Podgląd faktury
+      </button>
+    </li>
+  </ul>
+</nav>
